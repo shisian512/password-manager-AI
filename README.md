@@ -68,7 +68,5 @@ Contributions are welcome! If you'd like to enhance the project, please follow t
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
 Designed and developed by Shi Sian(https://github.com/shisian512)
-```
+
