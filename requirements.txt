@@ -1,0 +1,9 @@
+cryptography
+tkinter
+pandas
+joblib
+scikit-learn
+secrets
+sqlalchemy
+pyperclip
+xgboost
