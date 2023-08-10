@@ -1,4 +1,3 @@
-```markdown
 # Password Manager AI
 
 Securely manage your passwords with AI-powered password strength prediction and generation.
